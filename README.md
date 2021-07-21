@@ -7,10 +7,10 @@ https://www.notion.so/Unity-4f4dcf4d118e44c5afd81e7bc1a0e283
 ## 소개
 양손이 자유로운 HMD 증강현실 환경의 텍스트 입력과 객체조작을 위한 인터페이스
 
-
+### 객체 조작
 <img src="AR_Object_Control.PNG" alt="AR_Object_Control"></img>
 
-
+### 텍스트 입력
 <img src="AR_Text_Input.png" alt="AR_Text_Input"></img>
 
 
